@@ -1,0 +1,7 @@
+{
+  "name": "Building Material Billing",
+  "description": "Offline native Android building material billing and invoice app with multi-lingual support, Room database, customer and material management, PDF generation, print and share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
